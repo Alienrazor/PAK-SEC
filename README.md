@@ -11,20 +11,20 @@ pkg install python
 
 pkg install python2
 
-pip2 install requests
+pip install requests
 
-pip2 install mechanize
+pip install mechanize
 
-pip2 install bs4
+pip install bs4
 
 git clone https://github.com/Alienrazor/PAK-SEC
 
 ls
 
-cd BD
+cd PAK-SEC
 
 ls
 
-python2 BD.py
+python SEC.py
 
 ```
